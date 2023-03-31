@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="211515dd-c76f-4c1a-998c-8594eb9595b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/seleniumhq_selenium_java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing_Projeckt_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing Project 5 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utility/BaseDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utility/BaseDriverParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utility/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case01_LoginTest/TestElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case01_LoginTest/Tests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Nix2kitiEJpuVRGOEVRAgdCnQX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/talip/IdeaProjects/Testing_Projeckt_05/src/Utility&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.75258917&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\talip\IdeaProjects\Testing_Projeckt_05\src\Utility" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\talip\IdeaProjects\Testing_Projeckt_05\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Tests">
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing_Projeckt_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="case01_LoginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="case01_LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="case01_LoginTest.Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing_Projeckt_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="case01_LoginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="case01_LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="case01_LoginTest.Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test3_Create_Customer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing_Projeckt_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="case01_LoginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="case01_LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="case01_LoginTest.Tests" />
+      <option name="METHOD_NAME" value="test3_Create_Customer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test4_EditCustomer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing_Projeckt_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="case01_LoginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="case01_LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="case01_LoginTest.Tests" />
+      <option name="METHOD_NAME" value="test4_EditCustomer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test5_DeleteCustomer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing_Projeckt_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="case01_LoginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="case01_LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="case01_LoginTest.Tests" />
+      <option name="METHOD_NAME" value="test5_DeleteCustomer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Tests" />
+        <item itemvalue="TestNG.Tests.test4_EditCustomer" />
+        <item itemvalue="TestNG.Tests.test5_DeleteCustomer" />
+        <item itemvalue="TestNG.Tests.test1" />
+        <item itemvalue="TestNG.Tests.test3_Create_Customer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="211515dd-c76f-4c1a-998c-8594eb9595b7" name="Changes" comment="" />
+      <created>1680160498630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680160498630</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/case01_LoginTest/TestElements.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
